@@ -70,7 +70,7 @@ kd_tree = KDTree(X_train)
 }
 ```
 
-<img src="https://github.com/THUliuxinlong/PicGo/raw/main/img/2022-12-21-201441.png" alt="3-1-KD-Tree-Demo.png" style="zoom:70%;" />
+<img src="https://lxlpicbed.oss-cn-beijing.aliyuncs.com/img/2023-03-07-122128.png" alt="image-20230307122127365" style="zoom:80%;" />
 
 生成的kd树与课本示例一致。
 
@@ -154,7 +154,7 @@ x点的3个近邻点是(4, 7), (5, 4), (2, 3)，距离分别是2.6926, 2.0616, 1
 }
 ```
 
-<img src="https://github.com/THUliuxinlong/PicGo/raw/main/img/2022-12-21-201450.png" alt="3-1-KD-Tree-Demo.png" style="zoom:70%;" />
+<img src="https://lxlpicbed.oss-cn-beijing.aliyuncs.com/img/2023-03-07-122138.png" alt="image-20230307122137431" style="zoom:80%;" />
 
 添加到（9,6）的右子结点。
 
@@ -250,7 +250,7 @@ test accuracy: 0.895
 weighted avg       0.90      0.90      0.90       400
 ```
 
-<img src="https://github.com/THUliuxinlong/PicGo/raw/main/img/2022-12-21-201453.png" alt="image-20221126182639787" style="zoom:80%;" />
+<img src="https://lxlpicbed.oss-cn-beijing.aliyuncs.com/img/2023-03-07-122154.png" alt="image-20230307122153068" style="zoom:80%;" />
 
 ### 2.PCA降维
 
@@ -276,4 +276,4 @@ test accuracy: 0.9375
 weighted avg       0.94      0.94      0.94       400
 ```
 
-<img src="https://github.com/THUliuxinlong/PicGo/raw/main/img/2022-12-21-201455.png" alt="image-20221126183121817" style="zoom:80%;" />
+<img src="https://lxlpicbed.oss-cn-beijing.aliyuncs.com/img/2023-03-07-122212.png" alt="image-20230307122211744" style="zoom:80%;" />
